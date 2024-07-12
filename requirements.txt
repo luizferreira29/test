@@ -1,6 +1,6 @@
 streamlit
 pandas
 yfinance
-get_data
+yahoo_fin.stock_info
 datetime
-stock_info
+yahoo_fin
